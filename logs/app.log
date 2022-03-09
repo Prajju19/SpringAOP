@@ -1,0 +1,18 @@
+[INFO ] 2022-03-03 16:16:10.144 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[INFO ] 2022-03-03 16:16:10.390 [main] AspectConfig - Order total calculated and displayed as 47.75
+[INFO ] 2022-03-03 16:16:10.392 [main] AspectConfig - Discounted total calculated and displayed as 42.975
+[INFO ] 2022-03-03 16:18:43.967 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[INFO ] 2022-03-03 16:18:44.197 [main] AspectConfig - Order total calculated and displayed as 47.75
+[INFO ] 2022-03-03 16:18:44.209 [main] AspectConfig - Discounted total calculated and displayed as 42.975
+[INFO ] 2022-03-03 16:28:20.907 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[INFO ] 2022-03-03 16:28:21.192 [main] AspectConfig - Order total calculated and displayed as 47.75
+[INFO ] 2022-03-03 16:28:21.193 [main] AspectConfig - Discounted total calculated and displayed as 42.975
+[INFO ] 2022-03-03 16:32:46.711 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[INFO ] 2022-03-03 16:32:46.999 [main] AspectConfig - Order total calculated and displayed as 47.75
+[INFO ] 2022-03-03 16:32:47.003 [main] AspectConfig - Discounted total calculated and displayed as 42.975
+[INFO ] 2022-03-04 11:51:13.475 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[INFO ] 2022-03-04 11:51:13.742 [main] AspectConfig - Order total calculated and displayed as 47.75
+[INFO ] 2022-03-04 11:51:13.744 [main] AspectConfig - Discounted total calculated and displayed as 42.975
+[INFO ] 2022-03-04 11:51:31.459 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[INFO ] 2022-03-04 11:51:31.703 [main] AspectConfig - Order total calculated and displayed as 47.75
+[INFO ] 2022-03-04 11:51:31.705 [main] AspectConfig - Discounted total calculated and displayed as 42.975
